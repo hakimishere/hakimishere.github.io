@@ -36,10 +36,12 @@ h1#welcome {
   text-align: center;
   margin: 0 auto;
   border-bottom: 3px solid #f24738;
-  padding: 10px 0px; }
+  padding: 10px 0px;
+}
 
 #links a {
   font-size: 14px;
+  color: black;
   text-align: center;
   text-decoration: none;
   margin: 0px 20px;
@@ -72,7 +74,8 @@ h5, section {
 
 .proj-img {
   height: 60%;
-  width: 60%; }
+  width: 60%;
+  border: 1px double black; }
 
 h6 {
   font-size: 18px;
